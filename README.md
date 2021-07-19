@@ -7,4 +7,4 @@ Exercise of C Language II
 
 ## About this repo
 * This repo only include the exercise in textbook of Chap11,12,14,15
-* Exercise of Lab and the rest of the exercise in textbook <span style="color:blue">**are gone**</span>. (qq).
+* Exercise of Lab and the rest of the exercise in textbook **are gone**. (qq).
